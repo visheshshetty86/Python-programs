@@ -1,0 +1,1 @@
+print("hello my name is vishesh\n i have completed my engineering in alvas institute of engineering\n right now got placed in mresult")
